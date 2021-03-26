@@ -1,6 +1,6 @@
 # OO Principle
 
-![Build](https://github.com/xpbootcamp/oo-principle/workflows/Build/badge.svg)
+![Build](https://github.com/xpbootcamp/oo-principle-kata/workflows/Build/badge.svg)
  
 
 ## 开发环境
