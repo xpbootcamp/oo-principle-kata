@@ -74,10 +74,3 @@
 
 ##### 需求3：客户收到顾客的反馈，账单格式化需要HTML形式
 请你设计一个新的HTML打印器来满足客户需求，你可以基于原来的程序进行修改或扩展。
-
-
-
-
-## 参考资料
-- [JUnit 5用户指南](https://sjyuan.club/junit5/user-guide-cn/)
-- [Gradle 用户指南](https://docs.gradle.org/current/userguide/userguide.html)
